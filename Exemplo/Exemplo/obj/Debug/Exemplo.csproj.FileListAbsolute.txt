@@ -1,0 +1,7 @@
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\MC_Projects\aulas\c#\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
